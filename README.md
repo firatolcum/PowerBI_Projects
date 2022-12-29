@@ -2,3 +2,5 @@
 
 1- E-Commerce Data Profitability Analysis and Visualization with PowerBI:<br>
 https://youtu.be/l1pQtFX_3SQ
+
+© 2022 Fırat Olçum
